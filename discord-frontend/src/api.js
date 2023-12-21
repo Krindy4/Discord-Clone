@@ -2,7 +2,7 @@ import axios from 'axios';
 import {logout} from "./shared/components/utils/auth";
 
 const apiClient = axios.create({
-    baseURL : 'http://localhost:5000/api',
+    baseURL : 'https://discord-clone-xmf5.onrender.com/api',
     timeout : 1000,
 });
 
