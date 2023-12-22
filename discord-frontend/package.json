@@ -19,7 +19,7 @@
     "react-router-dom": "^6.20.1",
     "react-scripts": "^5.0.1",
     "redux-devtools-extension": "^2.13.9",
-    "redux-thunk": "^2.3.0",
+    "redux-thunk": "*",
     "simple-peer": "^9.11.1",
     "socket.io-client": "^4.7.2",
     "web-vitals": "^2.1.4"
