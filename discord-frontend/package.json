@@ -25,7 +25,7 @@
     "web-vitals": "^2.1.4"
   },
   "peerDependencies": {
-    "redux": "^5.0.0"
+    "redux": "^4.2.1"
   },
   "scripts": {
     "start": "react-scripts start",
